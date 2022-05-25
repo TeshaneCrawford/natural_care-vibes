@@ -23,14 +23,21 @@ I intend to continue to update the project as I learn more about Next.Js and the
      **Chakra UI** - A React UI library
 
 **Express.Js** - A Node.js framework for building web applications
+<p>
      **Passport.Js** - A authentication library for Node.js
-     **Bcrypt.Js** - A hashing library for Node.js
-     **JWT.Js** - A JSON Web Token library for Node.js
-     **Cors.Js** - A library for handling CORS requests
-     **Morgan.Js** - A HTTP request logger middleware for Node.js
-     **Body-Parser.Js** - A middleware for Node.js
-     **Redis** - A key-value store for Node.js. Cache data replacing cookies.
 
+     **Bcrypt.Js** - A hashing library for Node.js
+
+     **JWT.Js** - A JSON Web Token library for Node.js
+
+     **Cors.Js** - A library for handling CORS requests
+
+     **Morgan.Js** - A HTTP request logger middleware for Node.js
+
+     **Body-Parser.Js** - A middleware for Node.js
+
+     **Redis** - A key-value store for Node.js. Cache data replacing cookies.
+</p>
 **Stripe.Js, Paypal.Js, Google Pay** - Payment gateways for Node.js
 
 **MongoDB** - A NoSQL database
