@@ -52,11 +52,13 @@ I intend to continue to update the project as I learn more about Next.Js and the
 
 **MongoDB** - A NoSQL database
 <p>
+
      Mongoose - A MongoDB object modeling tool
 </p>
 
 **Firebase** - A cloud database
 <p>
+
      Storage - A cloud storage to store images and other files
 </p>
 
