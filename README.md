@@ -70,7 +70,7 @@ Natural Care Vibes is a skin care eCommerce store that aims to provide amazing d
 
 **Stripe.Js, Paypal.Js, Google Pay** - Payment gateways for Node.js
 
-**MongoDB** - A NoSQL database
+**Prisma** - A Node.js and TypeScript ORM
 <p>
 
      Will be used as a adapter for next-auth
