@@ -2,17 +2,37 @@
 This project aims to target online business in sales, similar to shopify. An eCommerce store for skin care.
 
 # Work in progress
-**P.S.** - I am currently working on this project.
+**P.S.** - I am currently working on this project, with typescript integration.
 
 Due to the recent news of updates to the Next.Js ecosystem, I have decided to give the project a day or two to get up to speed with the latest features.
 
 I intend to continue to update the project as I learn more about Next.Js and the ecosystem.
 
 # Features
+Natural Care Vibes is a skin care eCommerce store that aims to provide amazing digital commerce experiences, to its customers. The store is currently in development, and will be available soon. Below are the features that I am currently working on, and will be available in the store:
+
+<p>
+
+     Region - allows users to specify currencies, payment providers, shipping providers, tax rates. users can select their region, and will be used to provide shipping information.
+
+     Products - showcase to users products in different variants.
+
+     Payment - allows users to select their preferred payment method, and will be used to provide payment information. We will be supporting Stripe, Paypal and Google Pay.
+
+     Shipping - allows users to select their preferred shipping method, and will be used to provide shipping information. We will be supporting UPS, FedEx and USPS. Free shipping limits rules will be applied to the store.
+
+     Customer Login - allows users to create an account, gives them access to their account, and allows them to update their account information. eg. email, password, name, address, viewing orders, saving payment details etc.
+
+     Orders & Carts - allow users to perform service operations and to collect products for purchase, add shipping details, and complete payments.
+
+     Notification - users will be able to chat with us and get assistance if needed via our email providers and chatbots.
+
+     Customization - allows user to use shop in dark or light mode based on their system preference as well as having to option to toggle it manually.
+</p>
 
 # Known issues
 
-# Technologies used (Tech Stack - Mern Stack)
+# Technologies used (Tech Stack - Pern Stack)
 
 **Next.Js** - A React framework for both client & server-side rendering
 <p>
@@ -53,7 +73,7 @@ I intend to continue to update the project as I learn more about Next.Js and the
 **MongoDB** - A NoSQL database
 <p>
 
-     Mongoose - A MongoDB object modeling tool
+     Will be used as a adapter for next-auth
 </p>
 
 **Firebase** - A cloud database
@@ -61,6 +81,8 @@ I intend to continue to update the project as I learn more about Next.Js and the
 
      Storage - A cloud storage to store images and other files
 </p>
+
+**PostgreSQL** - A relational database to store data
 
 **Jest** - A testing framework for JavaScript
 
