@@ -1,15 +1,15 @@
-# natural_care-vibes
+## natural_care-vibes
 This project aims to target online business in sales, similar to shopify. An eCommerce store for skin care.
 
-# Work in progress
+## Work in progress
 **P.S.** - I am currently working on this project, with typescript integration.
 
 Due to the recent news of updates to the Next.Js ecosystem, I have decided to give the project a day or two to get up to speed with the latest features.
 
 I intend to continue to update the project as I learn more about Next.Js and the ecosystem.
 
-# Features
-Natural Care Vibes is a skin care eCommerce store that aims to provide amazing digital commerce experiences, to its customers. The store is currently in development, and will be available soon. Below are the features that I am currently working on, and will be available in the store:
+## Features
+Natural Care Vibes is a skin care eCommerce store that aims to provide amazing digital commerce experiences, to its customers. The store is currently in development, and will be available soon. Below are the features that are currently been worked on, and will be available in the store:
 
 <p>
 
@@ -30,9 +30,9 @@ Natural Care Vibes is a skin care eCommerce store that aims to provide amazing d
      Customization - allows user to use shop in dark or light mode based on their system preference as well as having to option to toggle it manually.
 </p>
 
-# Known issues
+## Known issues
 
-# Technologies used (Tech Stack - Pern Stack)
+## Technologies used (Tech Stack - Pern Stack)
 
 **Next.Js** - A React framework for both client & server-side rendering
 <p>
@@ -84,7 +84,7 @@ Natural Care Vibes is a skin care eCommerce store that aims to provide amazing d
 
 **PostgreSQL** - A relational database to store data
 
-**Jest** - A testing framework for JavaScript
+**Cypress** - A testing framework for JavaScript
 
 
 
