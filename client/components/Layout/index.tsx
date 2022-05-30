@@ -18,7 +18,7 @@ const Layout: React.FunctionComponent<LayoutProps> = ({ children }) => {
           <Navbar />
         </nav>
         <main>
-          {/* <Box sx={{ minHeight: '110vh' }}> {children}</Box> */}
+            {children}
         </main>
         <footer>
           <Footer />
