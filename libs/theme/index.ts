@@ -1,7 +1,3 @@
-const index = () => {
-  return (
-    index
-  )
-}
+const country = 'Austria';
 
-export default index
+export {}; // 👈️ if you don't have anything else to export
