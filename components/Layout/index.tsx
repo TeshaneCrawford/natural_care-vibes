@@ -4,6 +4,8 @@ import Head from './Head';
 import Footer from './Footer';
 import Navbar from './Navbar';
 
+import { Box } from "@chakra-ui/react"
+
 
 type LayoutProps = {
   children: React.ReactNode;
@@ -18,7 +20,7 @@ const Layout: React.FunctionComponent<LayoutProps> = ({ children }) => {
           <Navbar />
         </nav>
         <main>
-            {children}
+        <Box sx={{ minHeight: '110vh' }}> {children}</Box>
         </main>
         <footer>
           <Footer />
