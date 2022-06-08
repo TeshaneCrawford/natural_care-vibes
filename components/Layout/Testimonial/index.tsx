@@ -58,7 +58,7 @@ import {
     avatar: string;
     index: number;
   }
-  
+  // eslint-disable-next-line import/no-anonymous-default-export
   function TestimonialCard(props: TestimonialCardProps) {
     const { name, role, content, avatar, index } = props;
     return (
@@ -129,7 +129,7 @@ import {
       </Flex>
     );
   }
-  
+  // eslint-disable-next-line import/no-anonymous-default-export
   export default function GridBlurredBackdrop() {
     return (
       <Flex
